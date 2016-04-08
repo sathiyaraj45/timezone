@@ -4,7 +4,7 @@ function TimeZoneObject() {
  console.log("TimeZoneObject.js: is created");
 }
 
-TimeZoneObject.prototype.addition = function(successCallback, errorCallback, options){
+TimeZoneObject.prototype.currentTimeZone = function(successCallback, errorCallback, options){
 /*
 success
 */
