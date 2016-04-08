@@ -1,0 +1,26 @@
+{
+  "name": "timezone",
+  "version": "0.0.1",
+  "description": "Get device time zone values",
+  "scripts": {
+    "test": "echo error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathiyaraj45/timezone.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "version",
+    "appversion",
+    "plugin"
+  ],
+  "author": "sathiyaraj45",
+  "license": "Public",
+  "bugs": {
+    "url": "https://github.com/sathiyaraj45/timezone/issues"
+  },
+  "homepage": ""
+}
